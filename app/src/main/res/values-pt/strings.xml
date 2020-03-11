@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">GPS - Percurso e Tempo</string>
+  <string name="ativar_gps">"Ativar GPS "</string>
+  <string name="conceder_permissao">"Conceder permissão de GPS"</string>
+  <string name="desativar_gps">"Desativar GPS "</string>
+  <string name="distancia">"Distância percorrida: "</string>
+  <string name="feedback_no_gps">Para ativar o GPS, clique em Conceder Permissão de GPS</string>
+  <string name="gps_ativado">"GPS ativado"</string>
+  <string name="gps_desativado">"GPS desativado com sucesso. "</string>
+  <string name="gps_ja_ativado">"O GPS já está ativado. "</string>
+  <string name="gps_nao_ativado">"GPS não está ativado. "</string>
+  <string name="hintEditText">"O que você quer procurar? "</string>
+  <string name="iniciar_percurso">Iniciar percurso</string>
+  <string name="nao_percurso">"Não há rota. "</string>
+  <string name="no_gps_no_app">"Permissão necessária para usar o aplicativo. "</string>
+  <string name="permissao_concedida">"Permissão concedida. "</string>
+  <string name="permissao_ja_concedida">A permissão já foi concedida, clique no botão Ativar GPS</string>
+  <string name="tempo">Tempo:</string>
+  <string name="terminar_percurso">Finalizar percurso</string>
+  <string name="action_settings">Configurações</string>
+    <string name="percurso_ja_ativado">Você já está no percurso.</string>
+    <string name="termine_o_percurso">Você está na estrada, termine o percurso primeiro para desativar o GPS.</string>
+    <string name="percurso_iniciado">Percurso Iniciado</string>
+</resources>

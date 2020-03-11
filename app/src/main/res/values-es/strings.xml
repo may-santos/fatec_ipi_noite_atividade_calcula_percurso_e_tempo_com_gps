@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">GPS - Ruta y tiempo</string>
+  <string name="gps_desativado">"GPS deshabilitado con éxito. "</string>
+  <string name="gps_ja_ativado">"El GPS ya está activado. "</string>
+  <string name="gps_nao_ativado">El GPS no está activado.</string>
+  <string name="hintEditText">¿Qué quieres buscar?</string>
+  <string name="iniciar_percurso">Comienza la ruta</string>
+  <string name="nao_percurso">No hay ruta</string>
+  <string name="no_gps_no_app">Se requiere permiso para usar la aplicación.</string>
+  <string name="permissao_concedida">Permiso otorgado.</string>
+  <string name="permissao_ja_concedida">Ya se ha otorgado el permiso, haga clic en el botón Habilitar GPS</string>
+  <string name="tempo">Tiempo:</string>
+  <string name="terminar_percurso">Ruta completada</string>
+  <string name="ativar_gps">"Habilitar GPS"</string>
+  <string name="conceder_permissao">Conceder permiso de GPS</string>
+  <string name="desativar_gps">Deshabilitar GPS</string>
+  <string name="distancia">Distancia recorrida:</string>
+  <string name="feedback_no_gps">Para habilitar el GPS, haga clic en Conceder permiso de GPS</string>
+  <string name="gps_ativado">GPS habilitado.</string>
+  <string name="action_settings">Configuraciones</string>
+    <string name="percurso_ja_ativado">Ya estás en camino.</string>
+  <string name="termine_o_percurso">Estás en el camino, termina primero para desactivar el GPS.</string>
+    <string name="percurso_iniciado">Ruta iniciada</string>
+</resources>

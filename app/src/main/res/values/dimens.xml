@@ -1,0 +1,8 @@
+<resources>
+  <dimen name="fab_margin">16dp</dimen>
+  <dimen name="label">16dp</dimen>
+  <dimen name="tamanhoImagem">250dp</dimen>
+  <dimen name="tamanhoBotaoConceder">40dp</dimen>
+  <dimen name="marginBottom">10dp</dimen>
+  <dimen name="marginRight">4dp</dimen>
+</resources>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">"GPS - Route und Zeit "</string>
+  <string name="action_settings">die Einstellungen</string>
+  <string name="ativar_gps">"GPS aktivieren "</string>
+  <string name="conceder_permissao">GPS-Berechtigung erteilen</string>
+  <string name="desativar_gps">GPS deaktivieren</string>
+  <string name="distancia">Zurückgelegte Strecke:</string>
+  <string name="feedback_no_gps">Klicken Sie zum Aktivieren von GPS auf GPS-Berechtigung erteilen</string>
+  <string name="gps_ativado">GPS aktiviert.</string>
+  <string name="gps_desativado">GPS erfolgreich deaktiviert.</string>
+  <string name="gps_ja_ativado">GPS ist bereits aktiviert.</string>
+  <string name="gps_nao_ativado">GPS ist nicht aktiviert.</string>
+  <string name="hintEditText">Wonach möchten Sie suchen?</string>
+  <string name="iniciar_percurso">Starten Sie die Route</string>
+  <string name="nao_percurso">Es gibt keine Route.</string>
+  <string name="no_gps_no_app">Für die Nutzung der Anwendung ist eine Genehmigung erforderlich.</string>
+  <string name="permissao_concedida">Erlaubnis erteilt.</string>
+  <string name="permissao_ja_concedida">Die Berechtigung wurde bereits erteilt. Klicken Sie auf die Schaltfläche GPS aktivieren</string>
+  <string name="tempo">Zeit:</string>
+  <string name="terminar_percurso">Kurs abgeschlossen.</string>
+  <string name="percurso_ja_ativado">Du bist schon unterwegs.</string>
+  <string name="termine_o_percurso">Sie sind unterwegs, beenden Sie zuerst, um das GPS zu deaktivieren.</string>
+    <string name="percurso_iniciado">Route gestartet</string>
+</resources>

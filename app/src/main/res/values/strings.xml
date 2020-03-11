@@ -1,0 +1,24 @@
+<resources>
+  <string name="app_name">GPS - Route and Time</string>
+  <string name="action_settings">Settings</string>
+  <string name="conceder_permissao">Grant GPS permission</string>
+  <string name="ativar_gps">Enable GPS</string>
+  <string name="desativar_gps">Disable GPS</string>
+  <string name="iniciar_percurso">"start the route"</string>
+  <string name="terminar_percurso">"Route finalized"</string>
+  <string name="distancia">Travelled distance:</string>
+  <string name="tempo">"Time: "</string>
+  <string name="hintEditText">What do you want to look for?</string>
+  <string name="no_gps_no_app">Permission required to use the app.</string>
+  <string name="permissao_concedida">Permission granted.</string>
+  <string name="gps_ativado">GPS enabled.</string>
+  <string name="feedback_no_gps">To enable GPS, click Grant GPS Permission</string>
+  <string name="gps_nao_ativado">GPS is not activated.</string>
+  <string name="permissao_ja_concedida">Permission has already been granted, click on the Enable GPS button</string>
+  <string name="gps_desativado">GPS successfully disabled.</string>
+  <string name="nao_percurso">There is no route.</string>
+  <string name="gps_ja_ativado">GPS is already activated.</string>
+  <string name="percurso_ja_ativado">You are already on your way.</string>
+  <string name="termine_o_percurso">You are on the road, finish the route first to disable the GPS.</string>
+  <string name="percurso_iniciado">Route started</string>
+</resources>
